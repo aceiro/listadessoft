@@ -1,0 +1,2 @@
+rootProject.name = "ListaDesSoft"
+include ':app'
